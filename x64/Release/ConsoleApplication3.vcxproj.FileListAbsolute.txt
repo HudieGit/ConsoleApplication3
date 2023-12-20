@@ -1,0 +1,2 @@
+F:\Vs\ConsoleApplication3\x64\Release\ConsoleApplication3.exe
+D:\ConsoleApplication3\x64\Release\ConsoleApplication3.exe

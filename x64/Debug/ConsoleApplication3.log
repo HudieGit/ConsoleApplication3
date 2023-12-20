@@ -1,2 +1,5 @@
-﻿  ConsoleApplication3.cpp
+﻿  MM.cpp
+F:\Vs\ConsoleApplication3\MM.cpp(68,8): warning C4101: l: неиспользованная локальная переменная
+F:\Vs\ConsoleApplication3\MM.cpp(130,9): warning C4101: hThread: неиспользованная локальная переменная
+F:\Vs\ConsoleApplication3\MM.cpp(129,9): warning C4101: hProcess: неиспользованная локальная переменная
   ConsoleApplication3.vcxproj -> F:\Vs\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe

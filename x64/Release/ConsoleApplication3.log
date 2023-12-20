@@ -1,0 +1,10 @@
+﻿  MM.cpp
+D:\ConsoleApplication3\MM.cpp(73,8): warning C4101: l: неиспользованная локальная переменная
+D:\ConsoleApplication3\MM.cpp(135,9): warning C4101: hThread: неиспользованная локальная переменная
+D:\ConsoleApplication3\MM.cpp(134,9): warning C4101: hProcess: неиспользованная локальная переменная
+  Создание кода
+  3 of 24 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication3.vcxproj -> D:\ConsoleApplication3\x64\Release\ConsoleApplication3.exe
